@@ -1,6 +1,5 @@
 ## About Me
 I'm Sachin Ghosh AP, pursuing mechanical engineering at [MESCE](www.mesce.ac.in/) kuttippuram. 
-<body background="191502016.JPG">
 # Contact Me
    
 ## Email
@@ -20,5 +19,5 @@ I'm Sachin Ghosh AP, pursuing mechanical engineering at [MESCE](www.mesce.ac.in/
       - Second day - Introduction to 123D
       - Third day  - Documentation software and working on 123D
       - Fourth day -
-
+<body background="191502016.JPG">
   
