@@ -1,7 +1,24 @@
 ## About Me
-I'm Sachin Ghosh AP,
-an engineering student pursuing my Btech in MES College Of Engineering.I did my schooling from Silver Hills Higher Sec school 
-<img src="191502016.JPG" alt="123" "height="100" "width=100">
-<head>
-      <title>Nonbreaking Spaces Example</title>
-   </head>
+I'm Sachin Ghosh AP, pursuing mechanical engineering at [MESCE](www.mesce.ac.in/) kuttippuram.
+  
+# Contact Me
+   
+## Email
+     -sachinghoshap@gmail.com
+    
+       
+## Phone 
+     - 8089317188
+       
+# My Interest
+    - Automobiles
+    - Computer Aided Designing
+    - Product Development
+  
+# Syllabus
+      - First day - Introdution to Fablab
+      - Second day - Introduction to 123D
+      - Third day - Documentation software and working on 123D
+      - Fourth day -
+
+  
